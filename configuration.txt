@@ -1,0 +1,7 @@
+mongo_uri;mongodb+srv://hexaware:<password>@josh.xotyr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+db;Proctoring_Josh
+login_Window;Login into Hexaware Online Proctoring 
+Title;Live Monitoring in Progress
+Agreement;Agreement Policy
+violation_popup;Violation
+LogoutConsent;Logout
